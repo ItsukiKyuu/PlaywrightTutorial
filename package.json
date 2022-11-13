@@ -1,0 +1,21 @@
+{
+  "name": "playwrighttutorial",
+  "version": "1.0.0",
+  "description": "Learning playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsukiKyuu/PlaywrightTutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsukiKyuu/PlaywrightTutorial/issues"
+  },
+  "homepage": "https://github.com/ItsukiKyuu/PlaywrightTutorial#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  }
+}
